@@ -1,0 +1,10 @@
+PUMA PU103461005 ERKEK KOL SAATÝ
+Kadran þekli yuvarlak
+kadran rengi siyah
+kordon rengi mavi
+kasa tipi:celik
+kasa rengi:siyah
+kordon tipi:plastik
+takvim:var
+kasa yüksekliði:50
+cam cinsi:Mineral

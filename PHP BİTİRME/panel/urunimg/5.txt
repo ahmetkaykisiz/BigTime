@@ -1,0 +1,11 @@
+Marka=>Puma PU102941006 Motorsport Erkek Kol
+Kordon Tipi=>Siyah
+Kardon Rengi=>Siyah
+Cam=>Mineral
+Kasa tipi =>Çelik
+Kadran Rengi=>Siyah
+Kadran Þekli=>Yuvarlak
+Takvim=>yok
+Su Geçirmezlik=>10
+Kasa Yüksekliði=>50
+Quartz

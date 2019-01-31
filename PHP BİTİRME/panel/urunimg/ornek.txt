@@ -1,0 +1,10 @@
+Marka=>
+Kordon Tipi=>
+Kardon Rengi=>
+Cam=>
+Kasa tipi =>
+Kadran Rengi=>
+Kadran Þekli=>
+Takvim=>
+Su Geçirmezlik=>
+Kasa Yüksekliði=>

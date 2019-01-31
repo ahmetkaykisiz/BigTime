@@ -1,0 +1,10 @@
+model Puma PU103461001 Erkek Kol Saati
+fiyat 181.90
+cam mineral
+kadran siyah
+kasa çelik
+kordon siyah
+kordon tipi çelik
+kadran þekli yuvarlak
+kordon cinsi deri
+kasa yukseklýgý 50;

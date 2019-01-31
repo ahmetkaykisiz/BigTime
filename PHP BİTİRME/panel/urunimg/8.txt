@@ -1,0 +1,10 @@
+Marka=>Puma PU103071008 Erkek kol saati
+Kordon Tipi=>Silikon
+Kardon Rengi=>kýrmýzý
+Cam=>Mineral
+Kasa tipi =>Çelik
+Kadran Rengi=>Siyah
+Kadran Þekli=>Yuvarlak
+Takvim=>Yok
+Su Geçirmezlik=>100
+Kasa Yüksekliði=>50

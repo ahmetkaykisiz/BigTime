@@ -1,0 +1,11 @@
+Marka=>Puma PU102941001 Erkek Kol Saati
+Kordon Tipi=>Plastik
+Kardon Rengi=>Siyah
+Cam=>Mineral
+Kasa tipi =>Çelik
+Kasa Rengi=>Siyah
+Kadran Rengi=>Siyah
+Kadran Þekli=>Siyah
+Takvim=>Yok
+Su Geçirmezlik=>100
+Kasa Yüksekliði=>50
